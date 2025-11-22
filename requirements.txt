@@ -1,0 +1,8 @@
+gradio==5.49.1
+Pillow
+torch
+transformers
+requests
+deep-translator
+torchvision
+requests
