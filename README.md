@@ -5,4 +5,5 @@ create venv project folder
 install requirements.txt
 
 
-program for stable difussion analizator photo create promt рistory
+program for stable difussion analizator photo create promt history
+web gradio 
